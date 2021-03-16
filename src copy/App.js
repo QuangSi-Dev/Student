@@ -25,9 +25,6 @@ function App() {
       <ExampleCar />
       <hr />
       <ListKeys />
-      <hr />
-      <Props />
-      <hr />
     </div>
   );
 }
